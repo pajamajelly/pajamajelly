@@ -17,6 +17,6 @@ My name is PJ Graham. I'm an aspring Product Designer and Web Developer! You're 
     - 
   
 - 📫 How to reach me: ...
-    - You can connect with my on LinkedIn:
-    - Email: philip.grahaam@gmail.com
+    - You can connect with my on LinkedIn: https://linkedin.com/pjgraham12
+    - Or email: philip.grahaam@gmail.com
 
