@@ -11,9 +11,6 @@ My name is PJ Graham. I'm an aspring Product Designer and Web Developer. When I 
 
   
 - 🤔 I’m looking for help with more technical aspects of product development. I'm interested in learning more about React, Node,js and Python! Which program would be the best transition from front-end development programs? I'd love help with understanding Javascript in more advance and broaden my coding skills.
-
-- 💬 Ask me about ...
-    - 
   
 - 📫 How to reach me: ...
     - You can connect with my on LinkedIn: https://linkedin.com/pjgraham12
