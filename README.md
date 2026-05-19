@@ -14,9 +14,6 @@ My name is PJ Graham. I'm an aspring Front-End Developer with a focus in UX/UI D
 - 📫 Let's work together or stay connected to help us achieve our goals: ...
     - Connect on LinkedIn: https://linkedin.com/pjgraham12
     - Handshake: https://asu.joinhandshake.com/profiles/pajamajelly
-    - Follow my Coursera Learning Paths: https://www.coursera.org/user/3d01a1fee609d70fe753a94f82f9e282
- 
-
     - Check out my portfolio: https://pajamajelly.github.io/portfolio/
     - Email: philip.grahaam@gmail.com
 
